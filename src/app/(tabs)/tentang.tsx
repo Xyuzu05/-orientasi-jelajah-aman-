@@ -13,7 +13,7 @@ export default function TabTentang() {
         Jelajah Aman
       </Text>
       <Text style={{ fontSize: typeScale.isi }}>Versi 1.0.0</Text>
-      <Text style={{ fontSize: typeScale.isi }}>Dibuat oleh: Rangga</Text>
+      <Text style={{ fontSize: typeScale.isi }}>Dibuat oleh: Shodik</Text>
     </View>
   );
 }
